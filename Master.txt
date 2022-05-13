@@ -1,5 +1,10 @@
 A
 B
 C
+
 Function brank3(){
+}
+
+Function Brank1(){
+
 }
